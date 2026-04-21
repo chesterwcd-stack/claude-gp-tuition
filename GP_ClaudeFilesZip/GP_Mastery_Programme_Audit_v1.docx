@@ -1,0 +1,257 @@
+GP MASTERY PROGRAMME
+
+**Programme Audit**
+
+**&**** Critical Review**
+
+*Stocktake | Student Simulation | Gap Analysis | Competitive Benchmarking | Tutor Workload Assessment*
+
+**Version 1.0 — March 2026 — CONFIDENTIAL**
+
+# **Part 1: Complete Stocktake**
+
+Everything we have built so far, its purpose, its status, and how it fits into the ecosystem.
+
+| **#** | **Artifact** | **Purpose** | **Format** | **Status** | **Used When** |
+| --- | --- | --- | --- | --- | --- |
+| **1** | **Programme Bible (Brainstorm v1)** | Master architecture document: methodology, curriculum, topics, proficiency map, programme structure | DOCX | **Complete** | Internal reference |
+| **2** | **ARGUE Toolkit (Interactive)** | Student-facing digital reference for all 5 ARGUE tools with worked examples | JSX | **Complete** | Ongoing reference |
+| **3** | **Diagnostic Assessment Kit** | Intake test paper + tutor scoring rubric + student report template | DOCX | **Complete** | Student onboarding |
+| **4** | **IGNITE Lesson Plans — Month 1** | 4 fully scripted lessons (L1–L4) covering the ARGUE framework introduction | DOCX | **Complete (script-level)** | Weeks 1–4 |
+| **5** | **IGNITE Full 12-Lesson Arc** | Complete 12-lesson outline (L1–12) covering all 3 months of Phase 1 | DOCX | **Complete (outline L5–12)** | Weeks 1–12 |
+| **6** | **Student Playbook** | Welcome pack explaining programme, ARGUE, XP, schedule, survival guide, FAQ | JSX + HTML | **Complete** | Day 1 onboarding |
+| **7** | **XP Tracker Spreadsheet** | Operational system: dashboard, roster, weekly log, leaderboard, progress tracker, homework tracker | XLSX | **Complete** | Every week |
+| **8** | **ARGUE Toolkit Cards** | 5 printable double-sided cards for physical use during lessons and homework | PDF | **Complete** | Lessons 1–4+ |
+
+## **What We Have vs What We Still Need**
+
+| **BUILT ✔** | **NOT YET BUILT ✖** |
+| --- | --- |
+| ✔ Complete programme architecture & methodology ✔ Core student framework (ARGUE) — digital + print ✔ Intake assessment system (test + rubric + report) ✔ Month 1 lessons fully scripted ✔ Full 12-lesson arc outlined ✔ Student onboarding (playbook) ✔ Gamification operational system (XP tracker) ✔ Physical toolkit cards | **✖ Lessons 5–12 at full script level** **✖ Content packages for each theme (notes, arguments, examples)** ✖ Practice paper bank (essays + comprehension sets) ✖ Model paragraphs at each proficiency level ✖ Trial lesson design (conversion tool) ✖ Parent welcome pack & progress report templates ✖ Think Card article library (curated weekly readings) ✖ Phase 2 (J2 Mastery track) lesson plans ✖ Marketing materials (landing page, social content) |
+
+| **HONEST ASSESSMENT: Are we launch-ready?** Yes — with caveats. You can deliver Month 1 (Lessons 1–4) at full quality right now. Lessons 5–12 are outlined well enough for an experienced tutor to flesh out on the fly, but a new tutor would struggle without full scripts. The biggest operational gap is the content packages (theme-specific notes, arguments, examples) — without these, the tutor must prepare this content themselves each week, which significantly increases prep time. |
+| --- |
+
+# **Part 2: Student Simulation**
+
+We simulate 20 students of varying profiles running through the programme, examining the experience from both student and tutor perspectives.
+
+## **2.1 The 20 Student Profiles**
+
+We model a realistic mix of J1 and J2 students across proficiency levels, school types, and motivations.
+
+| **#** | **Profile** | **JC** | **Level** | **Start Level** | **School Type** | **Motivation** | **English** | **Content Knowledge** | **Likely Outcome** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **1** | Strong writer, weak thinker | J1 | L1 | 1 | Top JC | High | Strong | Weak | **B→A (fast)** |
+| **2** | STEM brain, hates GP | J1 | L0 | 0 | Top JC | Low | Adequate | Moderate | **D→B (needs buy-in)** |
+| **3** | Diligent but generic | J1 | L2 | 2 | Mid JC | Very high | Adequate | Moderate | **C→B (steady)** |
+| **4** | Reads widely, writes poorly | J1 | L1 | 1 | Top JC | Moderate | Weak | Strong | **C→A (high potential)** |
+| **5** | Completely lost | J1 | L0 | 0 | Mid JC | Low | Weak | Weak | **U→C (tough)** |
+| **6** | Fence-sitter supreme | J1 | L2 | 2 | Mid JC | Moderate | Good | Moderate | **C→B+ (fixable)** |
+| **7** | ESL student | J1 | L0 | 0 | Any | High | Very weak | Moderate | **D→C (language barrier)** |
+| **8** | Overconfident | J1 | L2 | 2 | Top JC | Low | Strong | Moderate | **B-→A (ego check)** |
+| **9** | Anxious perfectionist | J1 | L1 | 1 | Top JC | Very high | Good | Weak | **C→A (if managed)** |
+| **10** | Coasting | J1 | L1 | 1 | Mid JC | Low | Adequate | Weak | **D→C+ (if engaged)** |
+| **11** | Prelim panic (late start) | J2 | L1 | 1 | Top JC | Very high | Good | Moderate | **C→B (6 months)** |
+| **12** | Retaking, failed GP | J2 | L0 | 0 | Any | Desperate | Weak | Weak | **U→C/D (intensive)** |
+| **13** | Wants Law at NUS | J2 | L3 | 3 | Top JC | Extremely high | Strong | Strong | **B+→A (polish)** |
+| **14** | Good at AQ, weak essays | J2 | L2 | 2 | Mid JC | Moderate | Adequate | Strong | **C+→B (targeted)** |
+| **15** | Good essays, weak Paper 2 | J2 | L2 | 2 | Top JC | Moderate | Good | Moderate | **B-→A (P2 focus)** |
+| **16** | International school | J2 | L1 | 1 | Intl | High | Strong | Weak on SG | **C→B (SG depth)** |
+| **17** | Sporadic attender | J2 | L1 | 1 | Mid JC | Low | Adequate | Weak | **Unpredictable** |
+| **18** | Parent-pushed, unmotivated | J1 | L1 | 1 | Top JC | Zero | Good | Moderate | **Flat unless mindset shifts** |
+| **19** | Keen but slow learner | J1 | L0 | 0 | Mid JC | High | Weak | Weak | **D→C (patience)** |
+| **20** | Already decent, wants A | J2 | L3 | 3 | Top JC | High | Strong | Strong | **B→A (refinement)** |
+
+## **2.2 Simulation: What Happens in the Classroom**
+
+**Lesson 1: “Why GP Is Not English” — The Reality**
+
+With 4–6 students per class, let’s simulate a group containing profiles #1 (strong writer), #2 (STEM brain), #5 (completely lost), and #6 (fence-sitter).
+
+**The ice-breaker works well **— #1 gives a polished hot take, #2 gives a surprisingly sharp one about AI, #5 is shy but manages something about food, #6 gives a balanced-but-boring one. The tutor immediately has personality data. The GP vs English T-chart resonates with #2 (who finally understands why their decent English doesn’t help) and shocks #1 (who realises writing talent alone isn’t enough).
+
+**The Question Autopsy practice reveals problems: **#5 can’t identify question types at all and needs 1-on-1 help during the pair work. #6 identifies types correctly but writes fence-sitting theses for every question — the tutor catches this live and corrects it, which is exactly what this exercise is designed for. #1 races ahead and finishes early, creating a pacing challenge. #2 is engaged because the systematic, step-by-step approach appeals to their STEM brain.
+
+**Tutor challenge: **Managing the pace gap between #1 (fast) and #5 (struggling). The 4–6 student group helps — in a class of 20, #5 would be invisible. Here, the tutor can give them direct attention. But this dynamic will persist throughout the programme and needs ongoing management.
+
+**Lesson 4: First Full Essay — The Moment of Truth**
+
+By Lesson 4, the group has the full ARGUE toolkit. The first essay reveals where each student actually stands:
+
+- #1 writes a well-structured essay with elegant language but the arguments are surface-level. ARGUE has given them structure they lacked, but evidence depth needs work. Predicted: Band 2 content, Band 1 language. Grade trajectory: on track for B→A by mid-year.
+
+- #2 has surprised everyone: their essays are logical and well-reasoned (STEM thinking transfers!), but the language is clinical and examples are all tech-related. They need content breadth and expression variety. Band 2 across the board. Trajectory: if they stay engaged, C→B by mid-year.
+
+- #5 produces a short, barely structured essay with no clear thesis. But — they attempted a Question Autopsy (visible on their planning sheet) and there’s one paragraph with a recognisable Argument Ladder structure, even if the evidence is vague. This is meaningful progress from zero. Band 4. Trajectory: U→D by mid-year, D→C by year-end if consistent.
+
+- #6 writes a classic fence-sitting essay despite 3 weeks of anti-fence-sitting coaching. The thesis says “While there are merits to both sides...”. The body paragraphs present arguments for and against without committing. However, the Argument Ladder is visible in each paragraph. The Counter-Move attempt exists but is weak. Band 3. This student needs more aggressive thesis-locking drills. Trajectory: C stays C unless the fence-sitting habit breaks.
+
+**Month 2 Dynamics: Where the Programme Gets Tested**
+
+The content deep-dive sessions (Lessons 5–7) introduce new dynamics:
+
+- Students with strong content knowledge (#4, #13, #16) feel validated — they can finally show what they know. But they now realise knowing stuff isn’t enough; they need to ARGUE with it.
+
+- Students with weak content (#5, #7, #19) face the hardest stretch. The Evidence Vault discipline is critical here — those who do the weekly Think Cards and vault-building will start accumulating usable knowledge. Those who don’t fall further behind.
+
+- The Boss Battle (Lesson 8) is the first real pressure test. Expect 1–2 students per class to freeze, write very little, or revert to pre-ARGUE habits. This is normal and diagnostic. The tutor should reframe it as learning, not failure.
+
+- Homework compliance typically drops around Weeks 5–6 (the mid-programme slump). The XP system partially counteracts this, but the tutor needs to actively follow up with non-compliant students. The students who maintain Think Card discipline through this slump see the biggest long-term gains.
+
+**Month 3: Paper 2 Pivot — The Uncomfortable Shift**
+
+Shifting from essay focus to comprehension catches students off guard:
+
+- Students who are strong readers (#1, #13, #16) adapt quickly. The 3-Pass reading method feels natural to them.
+
+- ESL students (#7) and weak readers (#5, #12) struggle significantly with inference and paraphrasing. This is where differentiation within the group becomes most challenging.
+
+- The AQ lesson (L11) is where Singapore knowledge gaps become painfully visible. Students who built their Evidence Vault (#3, #4, #13) have material to draw from. Those who didn’t (#10, #17) are stuck writing generic AQ responses.
+
+- The Lesson 12 exam simulation produces the most useful data: a complete picture of each student across both papers, benchmarked against their diagnostic. Expect 60–70% of students to show measurable improvement (1+ band or 1+ proficiency level). The remaining 30–40% will show skill improvement that hasn’t yet translated to grades — this is normal at 12 weeks and should be communicated to parents proactively.
+
+## **2.3 Simulation: The Tutor’s Experience**
+
+**Week 1–4: High Energy, High Reward**
+
+- The scripted lessons make delivery smooth. Even a first-time tutor can follow the flow.
+
+- Small group size means the tutor quickly learns each student’s personality, strengths, and weaknesses.
+
+- Marking load is manageable: 4–6 introductions (L1), 4–6 paragraphs (L2), 4–6 argument pairs (L3), 4–6 full essays (L4). At 15–20 min per essay with GLOW-GROW-GO, that’s 60–90 min marking per class per week.
+
+- XP tracking takes about 5 min per session if the spreadsheet is open during the REFLECT segment.
+
+**Week 5–12: The Grind**
+
+- Without fully scripted lessons for L5–12, the tutor must do 30–60 min of prep per session to flesh out the outlines.
+
+- Content preparation is the biggest time sink: the tutor needs to prepare or curate the theme-specific content packages (arguments, examples, Singapore case studies) since these don’t exist as pre-built materials yet.
+
+- Marking load increases as essays get longer and more complex. By Month 3, marking 6 full essays takes 2–2.5 hours.
+
+- Managing homework non-compliance becomes a recurring task. The XP system helps, but requires consistent enforcement.
+
+- Parent communication (progress updates) adds 30–60 min per term per class.
+
+**Total Tutor Time Commitment (Per Class of 4–6 Students Per Week)**
+
+| **Activity** | **Month 1** | **Months 2–3** |
+| --- | --- | --- |
+| Teaching (in class) | 2 hrs | 2 hrs |
+| Lesson prep | 15 min (scripted) | 30–60 min |
+| Marking / feedback | 45–90 min | 90–150 min |
+| XP tracking + admin | 10 min | 10 min |
+| Content curation (articles, Think Cards) | 15 min | 30 min |
+| Student/parent comms | 10 min | 15 min |
+| **TOTAL PER WEEK** | **3.5–4.5 hrs** | **5–7 hrs** |
+
+| **VERDICT FOR PART-TIME TUTOR (1–2 groups/week)** With 1 group: 3.5–7 hours/week total. Very manageable as a part-time commitment. With 2 groups: 7–14 hours/week. Still part-time but marking becomes the bottleneck. The single biggest time investment is marking essays with detailed GLOW-GROW-GO feedback — this cannot be cut without undermining the programme’s value proposition. The most impactful efficiency gain would be pre-built content packages, which would cut prep time by 50%. |
+| --- |
+
+# **Part 3: Critical Review — Gaps, Risks ****&**** Improvements**
+
+## **3.1 Structural Gaps**
+
+**GAP 1: Content Packages Don’t Exist Yet (CRITICAL)**
+
+**Severity: HIGH. **Lessons 5–7 reference “the content package” for each theme but we haven’t built them. Without pre-prepared notes covering key arguments, counterarguments, Singapore case studies, and international examples for each of the 6 thematic pillars, the tutor must create this content from scratch. This is the single biggest operational risk.
+
+**Fix: **Build 6 content packages (one per pillar) as structured documents. Each should contain: 3–4 core tensions, 4–6 ready-made arguments with evidence, 8–10 Singapore-specific examples, 8–10 international examples, and 2–3 practice essay questions. Estimated build time: 2–3 hours per pillar, 12–18 hours total.
+
+**GAP 2: Practice Paper Bank (MODERATE)**
+
+**Severity: MODERATE. **The programme references timed essays and comprehension practice sets but we haven’t curated a bank of practice materials. Tutors would currently need to source these from past prelim papers (available online) or create their own. This is doable but time-consuming.
+
+**Fix: **Compile a bank of 20+ essay questions (tagged by theme and question type) and 6+ comprehension passage sets (covering all 6 themes). These can be drawn from actual A-Level and prelim papers (2024–2025) which are available from various sources.
+
+**GAP 3: Model Paragraphs at Each Level (MODERATE)**
+
+**Severity: MODERATE. **The proficiency ladder describes what each level looks like, and the toolkit cards have worked examples, but we don’t have a graded bank of model paragraphs showing the same argument at Level 1, 2, 3, and 4. This would be extremely valuable for teaching and for student self-assessment.
+
+**Fix: **Create 4–5 sets of graded paragraphs, each showing the same GP question answered at 4 different proficiency levels. Takes about 1–2 hours per set.
+
+**GAP 4: Lesson 5–12 Full Scripts (LOW-MODERATE)**
+
+**Severity: LOW-MODERATE. **The outlines are detailed enough for an experienced tutor to deliver from, but a less experienced tutor would benefit from full scripts. The risk depends on who is delivering.
+
+**Fix: **Prioritise scripting Lessons 5 and 9 first (the first content deep-dive and the Paper 2 pivot) since these are the most pedagogically complex transitions.
+
+## **3.2 Pedagogical Risks**
+
+**RISK 1: Over-Reliance on the ARGUE Acronym**
+
+There’s a risk that students treat ARGUE as a rigid formula rather than a flexible thinking tool. If every paragraph becomes a mechanical “PEEL+” without genuine thought, we’ve created sophisticated template users (Level 2) rather than real thinkers (Level 3+). The programme must explicitly transition students FROM template-following TO intuitive application.
+
+**Mitigation: **In Phase 2, explicitly teach students to break the template. Introduce “advanced moves” that deliberately deviate from ARGUE structure — e.g., opening with a counterargument, using a narrative hook, embedding evidence within reasoning rather than as a separate rung. The Argument Ladder should be scaffolding that gets removed, not a permanent crutch.
+
+**RISK 2: Gamification Fatigue**
+
+The XP system is engaging initially but may lose novelty by Month 3. If XP becomes “just another thing to track,” it stops motivating. Late Gen Z students are particularly sensitive to anything that feels performative or forced.
+
+**Mitigation: **Evolve the gamification over time. Introduce new badges monthly. Shift from individual XP to guild-based challenges in Phase 2. Make the leaderboard optional (some students are demotivated by public ranking). The XP system should feel like a feature, not the point.
+
+**RISK 3: Differentiation Within Groups**
+
+With 4–6 students per group, there will always be a pace gap. The simulation showed this clearly: #1 finishes early while #5 is still struggling. The current lesson plans don’t have enough built-in differentiation mechanisms beyond “tutor circulates and helps.”
+
+**Mitigation: **Build tiered activities into each lesson: a base task everyone does, and an extension task for fast finishers. For example, in the Question Autopsy drill, fast students could be challenged to write TWO contrasting theses for the same question, or to identify the “trap” in each question that would lead a weaker student astray.
+
+**RISK 4: The Singapore Knowledge Gap**
+
+The programme correctly emphasises Singapore-specific knowledge, but doesn’t have a systematic mechanism for building it beyond Think Cards and the Evidence Vault. Students who don’t do the homework consistently will arrive at Lesson 7 (Society & Economics) and Lesson 11 (AQ) without the Singapore depth needed.
+
+**Mitigation: **Create a “Singapore Cheat Sheet” — a 4–6 page reference document with the essential SG policies, statistics, and case studies organised by GP theme. Hand this out at the start of Month 2 as a standalone resource. This serves as insurance for students who don’t build their vaults consistently.
+
+**RISK 5: Paper 2 Gets Compressed**
+
+Only 3 out of 12 lessons focus on Paper 2 (Lessons 9–11), yet Paper 2 is worth 50% of the grade. This mirrors a common industry problem where essay teaching dominates at the expense of comprehension. While Paper 1 skills (argumentation, evidence) transfer to Paper 2 (especially AQ), the specific technical skills — paraphrasing, inference, comparison, summary — need dedicated practice.
+
+**Mitigation: **Introduce Paper 2 micro-skills earlier. From Lesson 5 onwards, add a 10-minute Paper 2 drill to the SPARK or PRACTISE segment of content lessons. This could be: a paraphrase challenge, a vocabulary-in-context question, or a quick inference exercise drawn from the lesson’s theme. This way, Paper 2 skills are developing in parallel with essay skills, not crammed into Month 3.
+
+# **Part 4: Competitive Benchmarking**
+
+How does GP Mastery compare to the established GP tuition landscape in Singapore? We benchmark against 5 dimensions.
+
+## **4.1 The Singapore GP Tuition Landscape (2026)**
+
+The market segments into three tiers:
+
+- Large centres (20–50+ students/class): The Learning Lab, Zenith, SmartLab. Lecture-style delivery with standardised notes. Strength: brand recognition, comprehensive content. Weakness: low personalisation, delayed feedback, factory-like feel.
+
+- Specialist GP boutiques (6–15 students/class): illum.e, Indigo, Ace GP, GPMyLastStraw. Focused methodology with proprietary frameworks. Strength: GP-specific expertise, decent feedback cycles. Weakness: still relatively large classes, can feel prescriptive.
+
+- Independent/small-group tutors (1–6 students): Ancourage Academy, various freelancers. Personalised attention, flexible pacing. Strength: high personalisation. Weakness: inconsistent quality, limited resources, no brand backing.
+
+GP Mastery positions in the third tier but with the systematic methodology typically found in the second tier. This is our core differentiation.
+
+## **4.2 Comparative Assessment**
+
+| **Dimension** | **Large Centres** | **GP Boutiques** | **GP Mastery (Ours)** | **Verdict** |
+| --- | --- | --- | --- | --- |
+| **Methodology** | Generic essay + compre drills | Proprietary but often content-heavy | ARGUE framework with progressive skill-building | **Competitive edge** |
+| **Personalisation** | Low (large classes) | Moderate | High (4–6 students, diagnostic-driven) | **Clear advantage** |
+| **Content Depth** | Very strong (extensive notes banks) | Strong (updated yearly) | Moderate (needs content packages) | **Current weakness** |
+| **Feedback Speed** | Slow (1–3 weeks) | Moderate (3–7 days) | Fast (72 hours, GLOW-GROW-GO) | **Competitive edge** |
+| **Fun / Engagement** | Low (lecture-style) | Moderate | High (gamification, games, XP) | **Clear advantage** |
+| **Price-Value** | $250–400/month | $300–500/month | $300–450/month (est.) | **Neutral** |
+| **Track Record** | Decades of results | 5–10 years, strong data | Zero (new programme) | **Critical weakness** |
+| **8881 Readiness** | Mixed (some outdated) | Generally updated | Fully designed for 8881 | **Competitive edge** |
+| **Paper 2 / AQ** | Often neglected | Covered but not deep | Dedicated lessons (L9–11) but compressed | **Moderate** |
+| **Scalability** | Highly scalable | Moderately scalable | Low (tutor-dependent) | **Weakness** |
+
+## **4.3 Honest Summary**
+
+| **Where We Win** Methodology (ARGUE is more structured and memorable than any competitor’s framework we’ve seen), personalisation (4–6 students with diagnostic-driven placement), feedback speed (72-hour GLOW-GROW-GO), engagement (no competitor has systematic gamification), and 8881 readiness (built from scratch for the new syllabus while many centres are still adapting). |
+| --- |
+
+| **Where We Lose** Track record (zero results to show — this is the #1 barrier to parent trust), content depth (no extensive notes bank yet), scalability (one tutor = one bottleneck), and brand recognition (unknown in a crowded market). The track record gap is existential for the first 6–12 months — the first cohort’s results will make or break the programme’s credibility. |
+| --- |
+
+| **Top 5 Priority Actions (In Order)** 1. Build the 6 content packages immediately — this is the most critical operational gap. 2. Design the trial lesson as a conversion tool — you need a pipeline beyond existing students. 3. Create the Singapore Cheat Sheet — insurance against weak Evidence Vault compliance. 4. Expand Lessons 5 and 9 to full script level — the two hardest pedagogical transitions. 5. Integrate Paper 2 micro-drills into Lessons 5–8 — don’t wait until Month 3 for comprehension skills. |
+| --- |
+
+*END OF AUDIT DOCUMENT v1.0*
+
+Ready for discussion and prioritised action

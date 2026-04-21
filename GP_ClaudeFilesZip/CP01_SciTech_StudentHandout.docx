@@ -1,0 +1,241 @@
+CONTENT PACKAGE 01
+
+**Science ****&**** Technology**
+
+*Complete Reference Guide*
+
+Arguments • Evidence • Singapore Knowledge • International Examples • Practice Questions
+
+| **What this document is for** This is your complete reference for the Science & Technology pillar. It contains everything discussed in class, PLUS additional context and examples you can study independently. Use it to: 1. Review and reinforce what you learned in Lesson 5 2. Build your Evidence Vault with specific, exam-ready examples 3. Prepare arguments you can deploy in any Sci/Tech essay question 4. Self-study if you missed the lesson — this handout is designed to stand alone 5. Reference during homework and exam prep *Highlight it. Annotate it. Dog-ear the pages you use most. This is a working document, not a museum piece.* |
+| --- |
+
+# **The Big Picture: Why This Pillar Matters**
+
+Science & Technology is the most frequently tested pillar in the GP exam. In 2024, Q1 was directly about technology and waste disposal. In 2025, Q3 asked about scientific curiosity, and the entire Paper 2 comprehension was about AI. If you can’t engage with this pillar confidently, you’re going into the exam with one hand tied behind your back.
+
+| **The #1 mistake students make with tech questions** They write ABOUT technology. They describe what AI does, list the features of social media, explain how gene editing works. That’s descriptive writing — it’s what you’d do for a science report, not a GP essay. What the examiner actually wants: arguments about what technology MEANS for people, societies, and governance. Not “How does AI work?” but “Who controls AI? Who benefits? Who gets left behind? What should we do about it?” **Bottom line: every tech argument should answer the question “So what?” If your point is “AI can diagnose cancer,” the “so what” is “This democratises healthcare access for underserved populations” or “This raises questions about liability when AI gets it wrong.” The technology is the setup. The human consequence is the argument.** |
+| --- |
+
+# **Tension 1: AI — Promise vs Risk**
+
+*The fundamental question: *Does AI represent humanity’s greatest tool for progress, or a force that amplifies inequality and concentrates power?
+
+This is the single most exam-relevant tension in the entire pillar. The 2025 Paper 2 was about AI. At least one question in 2024 or 2025 touched on AI’s role. You need to be able to argue both sides fluently.
+
+## **Arguments FOR: AI’s Promise**
+
+| **Argument 1: AI solves problems beyond human capacity** **Claim: **AI’s ability to process vast datasets and identify patterns surpasses human cognitive limits in specific domains, leading to scientific and medical breakthroughs that would otherwise take decades. **Why this is true: **The key insight is that AI doesn’t replace human intelligence — it handles a category of problem (massive data analysis, pattern recognition across millions of variables) that human brains simply cannot process at scale. This is a qualitatively different capability, not just a faster version of human thinking. **Evidence you can use:** Google DeepMind’s AlphaFold (2022) predicted the 3D structure of 200+ million proteins, solving a 50-year grand challenge in biology. This has accelerated drug discovery research worldwide and been called “the most important scientific achievement in a generation.” AI-powered early warning systems in Indonesia reduced tsunami death tolls by approximately 70% compared to pre-AI prediction models, by processing seismic data in seconds rather than minutes. Ada Health’s AI symptom checker serves 13 million users in 150+ countries, providing preliminary medical guidance in regions where the doctor-to-patient ratio can be as low as 1:50,000. **🇸🇬 Singapore angle: **Singapore’s PSA port uses AI-optimised logistics to process 37 million containers annually, maintaining SG’s position as the world’s busiest transhipment hub. This is AI directly contributing to SG’s economic survival. **💡 How to use in an essay: ***This argument works best when you need to show AI’s concrete, measurable benefits. Use AlphaFold for science questions, Ada Health for healthcare/inequality questions, PSA for economics/SG questions. The specificity of these examples is what makes them powerful — avoid vague claims like “AI helps in many fields.”* |
+| --- |
+
+| **Argument 2: AI democratises access to expertise** **Claim: **AI tools make specialist knowledge available to people who previously couldn’t access or afford it, potentially reducing inequalities in education, healthcare, and professional services. **Why this is true: **This is the “great equaliser” argument. Historically, access to expertise (doctors, lawyers, tutors, financial advisors) has been gated by wealth and geography. AI flattens this — not perfectly, but significantly. A student in rural Indonesia can now access personalised education through Khan Academy’s AI tutor that would previously have required a private tutor in Singapore. **Evidence you can use:** Khan Academy’s AI tutor “Khanmigo” (2023) provides personalised, adaptive education to millions of students worldwide who cannot afford private tutoring, adjusting to each student’s pace and gaps. ChatGPT reached 100 million users within 2 months of launch (fastest adoption of any technology in history), demonstrating massive global appetite for AI-assisted knowledge access. DoNotPay, an AI-powered “robot lawyer,” has helped users contest over 375,000 parking tickets and negotiate bills, providing basic legal assistance to people who can’t afford attorneys. **🇸🇬 Singapore angle: **Ask Jamie (gov.sg chatbot) handles 60% of government service queries, improving citizen access to public services regardless of language proficiency or digital literacy. SG’s National AI Strategy 2.0 explicitly positions AI as a tool for inclusive growth. **💡 How to use in an essay: ***This is your go-to argument for “in your society” questions about technology and equality. Pair it with a counterargument about the digital divide — AI democratises access for those who are already online, but what about the elderly, lower-income, or less digitally literate populations who can’t access these tools?* |
+| --- |
+
+## **Arguments AGAINST: AI’s Risks**
+
+| **Argument 3: AI amplifies existing biases and inequalities** **Claim: **AI systems trained on biased data don’t eliminate discrimination — they reproduce and scale it, often under the illusion of algorithmic objectivity that makes bias harder to detect and challenge. **Why this is true: **This is arguably the strongest counterargument to AI optimism, and the most exam-relevant. The key insight is that AI is NOT neutral. Every AI system reflects the data it was trained on, and that data reflects historical human prejudices. When we give these biased systems power over hiring, policing, lending, and healthcare, we don’t eliminate human bias — we industrialise it. And because algorithms feel “objective,” people are LESS likely to question their outputs than they would question a human decision. **Evidence you can use:** Amazon scrapped its AI hiring tool in 2018 after discovering it systematically downranked female candidates. The system had been trained on 10 years of hiring data from a male-dominated tech industry — it learned that “male” = “desirable candidate.” MIT Media Lab’s “Gender Shades” study (Joy Buolamwini, 2018) found that facial recognition systems from IBM and Microsoft had error rates of 34.4% for dark-skinned women compared to just 0.8% for light-skinned men. The technology literally couldn’t “see” certain faces. ProPublica’s investigation of COMPAS (a predictive policing algorithm used across the US) found it falsely flagged Black defendants as future criminals at nearly twice the rate of white defendants. The algorithm was making life-altering decisions about bail and sentencing. An MIT study (2019) found that a widely-used healthcare algorithm in the US systematically deprioritised Black patients for additional care, because it used healthcare spending (rather than actual illness) as a proxy for health needs — and Black patients historically had less access to expensive care. **🇸🇬 Singapore angle: **Singapore’s AI Governance Framework (first published 2019, updated 2024) is one of the world’s earliest national attempts to address algorithmic accountability. It promotes fairness, transparency, and human oversight. However, it remains VOLUNTARY — not legally binding. Compare this with the EU AI Act (2024), which is mandatory and enforceable with heavy fines. This is a great point for AQ: SG is ahead of most countries but behind the EU on enforcement. **💡 How to use in an essay: ***This is your power argument for almost any tech question. Memorise Amazon + Gender Shades + COMPAS — these three examples cover hiring bias, racial bias in surveillance, and criminal justice bias. That’s three different domains showing the same pattern. When you can show the PATTERN across multiple contexts, your argument is much more convincing than a single example.* |
+| --- |
+
+| **Argument 4: AI concentrates power among a wealthy few** **Claim: **AI development is concentrated in a handful of corporations and nations, creating unprecedented power asymmetries. Those who control AI infrastructure effectively control the future — and they are not democratically accountable. **Why this is true: **This is the political economy argument. Building frontier AI models requires computational resources costing hundreds of millions of dollars. This means that only the wealthiest corporations (Google, Microsoft, Meta, Amazon, Apple) and nations (US, China) can meaningfully participate in AI development. Everyone else becomes a consumer, not a creator. This creates a dependency relationship that has geopolitical implications. **Evidence you can use:** Approximately 70% of global AI research funding comes from just 5 tech corporations. The cost of training GPT-4 was estimated at $100 million+ — a figure beyond the reach of universities, governments, and smaller companies. The EU AI Act (2024) is the world’s first comprehensive legislative framework for AI, categorising AI applications by risk level (unacceptable, high, limited, minimal) and banning practices like social scoring and real-time biometric surveillance in public spaces. China’s social credit system uses AI surveillance to monitor and score citizen behaviour, demonstrating the authoritarian potential of AI when state and technology merge without democratic checks. **🇸🇬 Singapore angle: **Singapore’s National AI Council (2024, chaired by the Prime Minister) signals top-level government commitment to ensuring AI governance isn’t left entirely to the private sector. SG’s position is pragmatic: embrace AI for economic competitiveness while building governance frameworks to manage risk. **💡 How to use in an essay: ***Use this argument when questions ask about governance, regulation, or power. It connects naturally to the Politics pillar. The EU AI Act is your best “solution” example — it shows that regulation IS possible, even if imperfect.* |
+| --- |
+
+# **Tension 2: Scientific Freedom vs Ethical Limits**
+
+*The fundamental question: *Should scientists pursue knowledge wherever it leads, or should ethical boundaries constrain what research is permitted?
+
+This tension shows up in questions about bioethics, genetic engineering, dangerous research, and the purpose of science. The 2025 Q3 (“the most important aim of a scientist is to satisfy human curiosity”) is directly about this tension.
+
+| **FOR Freedom: Restricting research delays life-saving breakthroughs** **Claim: **History repeatedly shows that research considered impractical, dangerous, or ethically questionable at the time leads to transformative benefits. Restricting inquiry based on present-day fears risks sacrificing future generations’ lives. **Why this is true: **The key insight is that we cannot predict which research will prove valuable. Many of the greatest medical and scientific advances were opposed or dismissed before they succeeded. This means that precautionary restrictions, while well-intentioned, carry their own costs — costs measured in lives not saved, diseases not cured, problems not solved. **Evidence you can use:** mRNA vaccine technology (Moderna, BioNTech) was considered a fringe, commercially unviable pursuit for over 15 years. Multiple researchers lost funding and academic positions for pursuing it. When COVID-19 struck, this “fringe” research saved an estimated 20 million lives globally in its first year alone. IVF (in-vitro fertilisation) was condemned as “playing God” and “unnatural” when Robert Edwards first developed it in the 1970s. He faced intense ethical opposition. Today, over 12 million people alive worldwide were conceived through IVF, and Edwards was awarded the Nobel Prize in 2010. CRISPR gene editing holds promise for curing sickle cell disease, certain cancers, and hereditary blindness. In 2023, the first CRISPR-based therapy (Casgevy) was approved in the UK and US for sickle cell disease. **🇸🇬 Singapore angle: **SG’s Bioethics Advisory Committee represents the pragmatic approach: allow research with guardrails rather than impose blanket bans. Singapore’s regulatory philosophy is generally “innovation with governance” rather than “restriction first.” **💡 How to use in an essay: ***This argument works best for questions about scientific curiosity, freedom of inquiry, or whether science “promises more than it delivers.” The mRNA example is your strongest card — it’s recent, specific, and emotionally powerful.* |
+| --- |
+
+| **FOR Limits: Some research creates risks too catastrophic to justify** **Claim: **Certain categories of research carry risks so extreme that no potential benefit can justify proceeding without robust oversight. This is especially true for dual-use research (civilian + military applications) and research with irreversible consequences. **Why this is true: **The argument for ethical limits isn’t anti-science — it’s pro-responsibility. The issue is that scientific capability is advancing faster than our ethical frameworks and governance systems can keep up. Individual scientists can now alter the human genome, create novel pathogens, and build surveillance systems of unprecedented power. Without guardrails, the consequences of error or misuse are not just harmful — they’re potentially irreversible and global. **Evidence you can use:** He Jiankui (China, 2018) secretly created the world’s first gene-edited babies (Lulu and Nana) using CRISPR, modifying their DNA to be resistant to HIV. The scientific community universally condemned the experiment. He was sentenced to 3 years in prison. The long-term effects on the children are unknown and unknowable for decades. Gain-of-function research on viruses (deliberately making pathogens more transmissible or lethal to study them) is perhaps the most contested area. The US imposed a moratorium in 2014 after safety concerns. The debate intensified with the ongoing controversy over whether COVID-19 originated from a lab leak. Autonomous weapons systems (lethal autonomous weapons or “killer robots”) can select and engage targets without human intervention. Over 30 countries have called for a ban, but no international treaty exists. The risk: an algorithmic error or hack could trigger lethal force without human judgement. **🇸🇬 Singapore angle: **SG has no publicly known gain-of-function research programme but hosts DSO National Laboratories (defence science) and A*STAR (biomedical research) with institutional review boards that evaluate ethical risk. Singapore’s approach is less publicly debated than the US/EU but follows similar institutional safeguards. **💡 How to use in an essay: ***Use this for counterarguments when someone claims “science should have no limits.” He Jiankui is your most powerful example because it’s concrete, recent, and universally condemned — even other scientists agreed this crossed the line.* |
+| --- |
+
+# **Tension 3: Digital Connectivity vs Digital Harm**
+
+*The fundamental question: *Has the internet and social media made our lives richer, or are we paying hidden costs in mental health, truth, and social cohesion?
+
+This is the most personally relatable tension for JC students. You live this every day. The challenge is moving beyond personal experience to structured, evidence-based arguments.
+
+## **The Case FOR Connectivity**
+
+| **Connectivity enables collective action and knowledge access** **Claim: **Digital platforms have enabled unprecedented forms of social mobilisation, knowledge sharing, and democratic participation that would have been impossible in a pre-internet world. **Why this is true: **The internet didn’t just give us cat videos. It gave marginalised communities a voice, gave citizens tools to organise, and gave billions of people access to the sum of human knowledge for free. These benefits are real and should not be dismissed just because the platforms also have problems. **Evidence you can use:** The #MeToo movement (2017–) mobilised millions globally via social media hashtags, leading to legislative changes in 12+ countries and the prosecution of powerful abusers who had been protected by institutional silence for decades. Wikipedia: 1.7 billion unique visitors per month, 60+ million articles in 300+ languages. The largest open-access knowledge project in human history, maintained by volunteers. Democratised access to information on a scale unprecedented in human history. During the Arab Spring (2011), social media platforms enabled citizens to coordinate protests, share real-time information, and bypass state-controlled media, contributing to democratic movements across the Middle East. **🇸🇬 Singapore angle: **Gov.sg WhatsApp channel (1.2M subscribers) delivers official government information directly to citizens, serving as a counter to misinformation. SG’s digital government services (SingPass, LifeSG) use connectivity to improve citizen access to public services regardless of physical location. **💡 How to use in an essay: ***This argument works well as a counterbalance when a question frames technology/social media as purely harmful. Use it to show nuance: “while social media carries real risks, it has also enabled forms of collective action and knowledge access that strengthen democratic participation.”* |
+| --- |
+
+## **The Case AGAINST: Digital Harm**
+
+| **Social media damages mental health, especially among young people** **Claim: **There is now substantial evidence linking heavy social media use to increased rates of anxiety, depression, and body image issues among adolescents. The platforms’ own internal research confirms this. **Why this is true: **This is one of the best-evidenced arguments in the entire GP syllabus. The mechanism is well-understood: social comparison (everyone’s life looks better than yours online), addictive design features (infinite scroll, notification dopamine hits), and exposure to cyberbullying and harmful content. What makes this argument especially powerful is that the platforms KNOW their products cause harm — and continue to optimise for engagement over wellbeing. **Evidence you can use:** The US Surgeon General issued a formal advisory on social media and youth mental health (2023), citing evidence that teenagers spending 3+ hours per day on social media face double the risk of anxiety and depression symptoms. Frances Haugen’s Facebook/Meta whistleblowing (2021) leaked internal company research showing that Instagram worsened body image issues for 32% of teenage girls who already felt bad about their bodies. The company knew this and did not act. A University of Pennsylvania study (2018) found that limiting social media use to 30 minutes per day for 3 weeks significantly reduced loneliness and depression. This is one of the few studies that demonstrates causation, not just correlation. **🇸🇬 Singapore angle: **Singapore’s Online Safety (Miscellaneous Amendments) Act 2024 empowers IMDA to issue codes of practice requiring social media platforms to implement safety measures, particularly for young users. This represents SG’s regulatory response to digital harm — pragmatic and platform-targeted rather than user-restrictive. **💡 How to use in an essay: ***This is a high-frequency exam topic. The Surgeon General + Haugen + Penn study gives you three levels of evidence: government advisory, corporate whistleblower, and academic research. That’s Tier 2 (international) evidence of exceptional quality.* |
+| --- |
+
+| **Misinformation threatens democracy and public health** **Claim: **The structural design of social media platforms amplifies false and sensational content over accurate information, creating an information environment that corrodes public trust, undermines democratic processes, and costs lives. **Why this is true: **This isn’t about individual bad actors posting lies. It’s about the STRUCTURE of platforms: algorithms that maximise engagement reward emotionally provocative content, which tends to be more extreme, more outraged, and less accurate. Misinformation isn’t a bug — it’s a feature of engagement-optimised platforms. **Evidence you can use:** MIT study (Vosoughi et al., 2018, published in Science): analysed 126,000 stories shared on Twitter and found that false news spreads 6x faster than true news, reaching 1,500 people approximately 6x faster. Crucially, this wasn’t driven by bots — humans spread false news because it triggers stronger emotional reactions. COVID-19 anti-vaccine misinformation contributed to an estimated 300,000+ preventable deaths globally in 2021–2022, according to analysis by the Centre for Countering Digital Hate. The WHO termed it an “infodemic.” During the 2020 US election, Facebook’s own researchers found that its recommendation algorithms directed users toward increasingly extreme political content, contributing to polarisation. **🇸🇬 Singapore angle: **POFMA (Protection from Online Falsehoods and Manipulation Act, 2019) has been invoked over 100 times since its introduction, making SG one of the most aggressive regulatory environments for online falsehoods. POFMA allows the government to require corrections, block content, or order platforms to disable accounts. Supporters say it protects social cohesion in a multi-racial society. Critics argue it gives the government too much power to define “truth” and chills legitimate free speech. This is one of the most nuanced SG examples in the entire syllabus — use it carefully with both sides acknowledged. **💡 How to use in an essay: ***This argument connects powerfully to the Politics pillar (governance, censorship, free speech) and is excellent for AQ responses. The MIT study is your anchor evidence — it’s from a top journal, has a striking statistic (6x), and demonstrates a structural problem, not just anecdotes.* |
+| --- |
+
+# **Tension 4: Automation vs Human Work**
+
+*The fundamental question: *Will automation create shared prosperity or deepen inequality between those who own the machines and those replaced by them?
+
+| **FOR: Automation creates more than it destroys** **Claim: **Historically, technological revolutions have always created more jobs than they eliminated. Automation handles routine tasks, freeing humans for more creative, strategic, and interpersonal work. **Why this is true: **The optimistic case rests on historical precedent: the industrial revolution, the computer revolution, and the internet revolution all displaced millions of workers — and all created far more jobs than they destroyed. The question is whether AI follows this pattern or breaks it. **Evidence you can use:** World Economic Forum Future of Jobs Report (2023): estimates AI will create 97 million new roles while displacing 85 million, a net positive of 12 million jobs globally by 2025. ATMs were predicted to eliminate bank teller jobs in the 1970s. Instead, the number of bank tellers in the US increased by 50% between 1970 and 2010, because cheaper branches meant more branches, and tellers shifted to relationship-based roles. **🇸🇬 Singapore angle: **Budget 2026 launched 6 months of free premium AI tool access for mid-career workers and established the National AI Council. SG’s strategy is explicitly “adapt workers to AI” rather than “resist automation.” SkillsFuture credits (available to all citizens 25+) fund upskilling. The Progressive Wage Model ensures minimum wages rise alongside productivity. **💡 How to use in an essay: ***Use the ATM example when you need to show that predictions of technological unemployment are often wrong. But acknowledge that the AI revolution may be different in SPEED and SCOPE from previous ones.* |
+| --- |
+
+| **AGAINST: Automation disproportionately harms the vulnerable** **Claim: **While new jobs will emerge, they won’t be accessible to the workers displaced from existing roles. The transition costs fall disproportionately on lower-skilled, lower-income, and older workers who cannot easily retrain. **Why this is true: **The argument isn’t that automation creates zero new jobs. It’s that the new jobs require fundamentally different skills, are located in different places, and are accessible to different people. A factory worker in Johor Bahru cannot simply retrain as a machine learning engineer. The cheerful assurance that “technology always creates more jobs” ignores the deeply uneven distribution of those opportunities. **Evidence you can use:** McKinsey Global Institute (2023): up to 375 million workers worldwide may need to switch occupational categories entirely by 2030 due to automation. The burden falls disproportionately on workers in manufacturing, food service, retail, and administrative roles. The gig economy (Grab, foodpanda, Uber, Deliveroo) creates flexible work but systematically strips away benefits: no employer CPF contributions, no medical insurance, no paid leave, no career progression. This is precarious employment disguised as entrepreneurial freedom. Oxford Economics (2019): each new industrial robot displaces an average of 1.6 manufacturing workers. The displacement is concentrated in regions already facing economic hardship. **🇸🇬 Singapore angle: **The Workplace Fairness Act (2025) provides legal recourse against discrimination based on age, disability, and other factors — partly in response to concerns that automation disproportionately displaces older workers. The Progressive Wage Model mandates minimum wage increases for specific sectors. But critics argue these measures address symptoms, not the structural shift. **💡 How to use in an essay: ***This argument is powerful for questions about inequality, the future of work, and whether economic growth benefits everyone. Pair it with the “Freedom” argument above for a nuanced paragraph that acknowledges both creation and displacement.* |
+| --- |
+
+# **Singapore Reference: Complete**
+
+For ‘in your society’ questions and AQ, you need Singapore-specific knowledge. Here are the 10 most important Sci/Tech policies and initiatives, with enough detail to deploy them in an essay.
+
+**Smart Nation Initiative (2014–present)**
+
+**What: **Singapore’s whole-of-government push to harness digital technology for economic competitiveness and quality of life. Includes: National Digital Identity (SingPass), unified e-payments infrastructure, and a nationwide sensors network for urban management.
+
+**GP use: **Use for: SG’s proactive approach to tech adoption. Challenge with: who is excluded from Smart Nation? Elderly, less digitally literate, lower-income populations may not benefit equally.
+
+**National AI Strategy 2.0 (2023)**
+
+**What: **Updated national roadmap committing $1B+ to AI deployment in 5 key sectors: healthcare, education, security, logistics, and government services. Aims to make SG a global AI hub.
+
+**GP use: **Use for: SG’s ambition to lead in AI. Challenge with: can a small nation compete with US/China in AI when the field is dominated by trillion-dollar corporations?
+
+**AI Governance Framework (2019, updated 2024)**
+
+**What: **One of the world’s first national frameworks for responsible AI deployment. Principles: fairness, transparency, accountability, human-centredness. Adopted by companies voluntarily.
+
+**GP use: **Use for: SG as a governance leader. Critical angle: the framework is VOLUNTARY, not legally enforceable. Compare with EU AI Act (mandatory, with fines up to 7% of global revenue).
+
+**Personal Data Protection Act (PDPA)**
+
+**What: **Regulates collection, use, and disclosure of personal data by organisations. Fines up to $1 million for violations. Amended in 2020 to strengthen enforcement.
+
+**GP use: **Use for: privacy vs innovation tension. SG tries to balance data-driven innovation with individual privacy rights. Question: is PDPA adequate for the AI age?
+
+**POFMA (2019)**
+
+**What: **Protection from Online Falsehoods and Manipulation Act. Government can order corrections to online statements it deems false, block access to content, or order platforms to disable accounts. Over 100 invocations since 2019.
+
+**GP use: **Use for: misinformation governance. THIS IS THE MOST NUANCED SG EXAMPLE. Always present both sides: protects social cohesion vs potential to chill free speech. Examiners reward balance here.
+
+**National AI Council (2024)**
+
+**What: **Chaired by the Prime Minister. Guides national AI strategy, coordinates across government agencies, and engages with private sector on AI deployment and governance.
+
+**GP use: **Use for: AI governance at the highest level of government. Shows that SG takes AI seriously as a national priority, not just a tech trend.
+
+**Budget 2026 AI Initiatives**
+
+**What: **6 months of free premium AI tool access for mid-career workers. AI literacy programmes for public servants. Investment in AI research infrastructure.
+
+**GP use: **Use for: future of work arguments. SG’s approach is “upskill, don’t resist” — a pragmatic philosophy that reflects SG’s historical approach to economic transformation.
+
+**TraceTogether (2020–2023)**
+
+**What: **Bluetooth-based contact tracing app deployed during COVID-19. Initially had high adoption due to mandated use. Controversy erupted when it was revealed police had accessed TraceTogether data for criminal investigations, contradicting initial assurances. Discontinued in 2023.
+
+**GP use: **Use for: the surveillance vs public health trade-off. EXCELLENT example because it shows how technology deployed for one purpose can be repurposed for another, and how government assurances about data use can be broken.
+
+**SkillsFuture (2015–present)**
+
+**What: **National programme providing all Singaporeans aged 25+ with credits for approved training courses. Aimed at lifelong learning and adaptability in a changing economy.
+
+**GP use: **Use for: addressing the human cost of automation. SG’s answer to “what happens to displaced workers?” Critics: credits are insufficient for genuine career transitions; most popular courses are hobby-related, not professionally transformative.
+
+**Online Safety Act (2024)**
+
+**What: **Empowers IMDA to issue codes of practice for social media platforms, particularly regarding protection of young users from harmful content.
+
+**GP use: **Use for: regulating digital harm. Shows SG’s evolution from POFMA (focused on falsehoods) to broader online safety regulation.
+
+# **International Reference: Complete**
+
+These are the 10 most versatile international examples for Sci/Tech essays. Aim to know at least 6 well enough to cite from memory.
+
+**EU AI Act (2024)**
+
+**Facts: **The world’s first comprehensive legislative framework for AI regulation. Classifies AI by risk: unacceptable (banned), high (strictly regulated), limited (transparency required), minimal (free use). Bans social scoring and real-time biometric surveillance in public spaces. Fines up to 7% of global revenue for violations.
+
+**GP use: **Your best “regulation works” example. Shows that governing AI is possible. Compare with SG’s voluntary approach and China’s state-controlled approach for a three-way comparison.
+
+**ChatGPT / Generative AI (2022–)**
+
+**Facts: **Reached 100 million users in 2 months (fastest technology adoption in history). Disrupted education (essay writing, homework), creative industries (art, music, writing), and white-collar work (coding, analysis, customer service).
+
+**GP use: **The defining tech example of the 2020s. Use for: automation of COGNITIVE work (not just manual), questions about education, and the speed of technological disruption.
+
+**AlphaFold (Google DeepMind, 2022)**
+
+**Facts: **Predicted the 3D structure of 200+ million proteins, solving a 50-year grand challenge in structural biology. Called “the most important scientific achievement in a generation.”
+
+**GP use: **Your strongest “AI for good” example. Use whenever you need to show AI solving genuinely important scientific problems.
+
+**Amazon AI Hiring Tool (2018)**
+
+**Facts: **Systematically discriminated against female candidates. Trained on 10 years of male-dominated hiring data, learned to penalise resumes containing the word “women’s.” Amazon scrapped the tool.
+
+**GP use: **The go-to example for AI bias. Simple, clear, from a household-name company. Devastating in its simplicity: the AI learned sexism from the data.
+
+**Gender Shades (MIT, Joy Buolamwini, 2018)**
+
+**Facts: **Benchmarked facial recognition from IBM, Microsoft, and Face++ against diverse faces. Error rates: 34.4% for dark-skinned women, 0.8% for light-skinned men. Led to IBM discontinuing its facial recognition product.
+
+**GP use: **Algorithmic racism made measurable. The study is from MIT (credibility), published data (specificity), and led to corporate action (impact).
+
+**CRISPR Babies / He Jiankui (China, 2018)**
+
+**Facts: **Created first gene-edited human babies (twins Lulu and Nana) using CRISPR to make them HIV-resistant. Universally condemned by scientific community. Sentenced to 3 years in prison.
+
+**GP use: **Your strongest example for ethical limits of science. Shows that individual scientists can cross irreversible lines without adequate oversight.
+
+**mRNA Vaccines (Moderna, BioNTech)**
+
+**Facts: **Technology was considered fringe and commercially unviable for 15+ years. Katalin Karikó was demoted and defunded for pursuing it. COVID-19 pandemic validated the approach: mRNA vaccines saved an estimated 20 million lives in the first year.
+
+**GP use: **Your strongest “scientific freedom” argument. Shows the cost of discouraging unconventional research. Emotionally powerful AND evidence-rich.
+
+**Facebook Whistleblower (Frances Haugen, 2021)**
+
+**Facts: **Former Facebook data scientist leaked internal research documents showing: Instagram worsened body image for 32% of teen girls; the platform amplified extreme political content for engagement; the company knew about these harms and chose profit over safety.
+
+**GP use: **Corporate accountability for digital harm. The power of this example is that it comes from INSIDE the company — not external critics, but Facebook’s own data.
+
+**US Surgeon General Advisory on Social Media (2023)**
+
+**Facts: **Formal government advisory warning that social media poses “a profound risk of harm” to youth mental health. Cited evidence: teens on social media 3+ hours/day face 2x risk of anxiety and depression.
+
+**GP use: **The most authoritative government statement on social media harm. “Surgeon General” carries weight as an evidence source. Use the 3-hour/2x statistic — it’s specific and memorable.
+
+**MIT Misinformation Study (Vosoughi et al., 2018, Science)**
+
+**Facts: **Analysed 126,000 news stories on Twitter. Found false news reaches 1,500 people 6x faster than true news. Driven by humans (not bots) because false news triggers stronger emotional responses (fear, surprise, disgust).
+
+**GP use: **The definitive study on misinformation dynamics. Published in ‘Science’ (top journal). Key insight: misinformation spreads because of human psychology + platform design, not just bad actors.
+
+# **Cross-Pillar Connections**
+
+Under Syllabus 8881, questions increasingly sit at the intersection of pillars. Sci/Tech connects to everything:
+
+- Sci/Tech + Environment: climate modelling, green technology, e-waste, sustainable energy. (2024 Q1 on waste disposal)
+
+- Sci/Tech + Economics: automation and jobs, gig economy, AI and productivity, data as economic resource. (Budget 2026 AI initiatives)
+
+- Sci/Tech + Politics: surveillance, digital governance, POFMA, cyber warfare, regulation of big tech. (2025 Q on democracy)
+
+- Sci/Tech + Society: social media and mental health, digital divide, online communities, generational gap in tech literacy.
+
+- Sci/Tech + Arts: AI-generated art (DALL-E, Midjourney), deepfakes, the future of creative work, intellectual property.
+
+# **Practice Questions**
+
+Use these for homework essays, timed practice, or Question Autopsy drills:
+
+- “To what extent are science and technology able to solve the problem of waste disposal?” [2024 A-Level] — Discuss / Sci+Enviro
+
+- “The most important aim of a scientist is to satisfy human curiosity about the world.” Evaluate. [2025 A-Level] — Evaluate / Philosophy of science
+
+- “Artificial intelligence will inevitably do more harm than good.” Discuss. — Discuss / Core Tension 1
+
+- “Consider the view that science and technology promise more than they deliver.” [2025 Prelim] — Consider / Broad pillar
+
+- “Human values are overlooked when decisions are based on data.” [2025 Prelim] — Implied evaluate / Ethics+Tech
+
+- “Should governments have the right to access all digital communications for national security?” — Should / Tension 3+Politics
+
+| **YOUR TASK** 1. Read through this entire handout at least once. Highlight arguments and examples you find most compelling. 2. Transfer at least 5 examples to your Evidence Vault (use the template: What happened? Why does it matter? Which GP themes does it serve?). 3. For each of the 4 tensions, make sure you can argue BOTH sides. If you can only argue one side, you’re not ready for the exam. 4. Pick ONE practice question and write a full Question Autopsy + essay outline (thesis + 3 paragraph plans with evidence noted). 5. Star (★) the 3 examples you think you could cite from MEMORY in an exam, without looking at notes. These are your “go-to” examples for this pillar. |
+| --- |
