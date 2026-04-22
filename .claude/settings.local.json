@@ -11,7 +11,12 @@
       "Read(//usr/local/**)",
       "Bash(node -e ' *)",
       "Bash(npm list *)",
-      "Bash(node -e \"require\\('docx'\\); console.log\\('docx available'\\)\")"
+      "Bash(node -e \"require\\('docx'\\); console.log\\('docx available'\\)\")",
+      "Bash(node scripts/build-cp02.js)",
+      "Bash(node scripts/build-cp03.js)",
+      "Bash(node scripts/build-cp04.js)",
+      "Bash(node scripts/build-cp05.js)",
+      "Bash(node scripts/build-cp06.js)"
     ]
   }
 }
