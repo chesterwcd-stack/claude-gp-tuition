@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(where python3 *)",
+      "Bash(where python *)",
+      "Bash(py --version)",
+      "Bash(python3 -c ' *)",
+      "Bash(py *)",
+      "Read(//usr/**)",
+      "Read(//usr/local/**)",
+      "Bash(node -e ' *)",
+      "Bash(npm list *)",
+      "Bash(node -e \"require\\('docx'\\); console.log\\('docx available'\\)\")"
+    ]
+  }
+}

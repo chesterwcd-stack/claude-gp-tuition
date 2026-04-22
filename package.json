@@ -1,0 +1,16 @@
+{
+  "name": "gp-mastery-content",
+  "version": "1.0.0",
+  "description": "GP Mastery Programme content generation scripts",
+  "scripts": {
+    "build:cp02": "node scripts/build-cp02.js",
+    "build:cp03": "node scripts/build-cp03.js",
+    "build:cp04": "node scripts/build-cp04.js",
+    "build:cp05": "node scripts/build-cp05.js",
+    "build:cp06": "node scripts/build-cp06.js",
+    "build:all": "node scripts/build-cp02.js && node scripts/build-cp03.js && node scripts/build-cp04.js && node scripts/build-cp05.js && node scripts/build-cp06.js"
+  },
+  "dependencies": {
+    "docx": "9.5.3"
+  }
+}
